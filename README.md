@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?text=Hi-828&animation=fadeIn&type=waving&color=gradient&height=100"/>
 </p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pacifico&color=%2336BCF7&size=48&center=true&vCenter=true&width=1200&height=100&lines=Senior+Full+Stack+Developer;Senior+Software+Engineer)]()
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pacifico&color=%2336BCF7&size=48&center=true&vCenter=true&width=1200&height=100&lines=Senior+Java+Full+Stack+Developer;Senior+Software+Engineer)]()
 <img align="right" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/219bcc70-f5dc-466b-9a60-29653d8e8433" width="500">
 ## Skills
 - 🌱 Frontend : React, Next, Web3.js, Angular, Vue, Nuxt, Jquery, Material UI, Bootstrap, TailwindCSS
@@ -32,8 +32,8 @@
       <br>Python
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="65" height="65" alt="cpp" />
-      <br>C++
+        <img src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" width="65" height="65" alt="cpp" />
+      <br>Java
     </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=selenium" width="65" height="65" alt="Laravel" />
